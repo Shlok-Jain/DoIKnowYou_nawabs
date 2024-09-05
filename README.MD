@@ -1,9 +1,8 @@
 # Submission for "Do I know You?" (Pool Nawabs)
 This is our official submission for the mid-prep problem statement "[Do I know You?](https://drive.google.com/file/d/1l3t1S5wo2yvOEyzMBMtHX1ttnGKQSheR/view)" by BCS, IITK for Takneek 2024 by Pool Nawabs.
 # Team details
-### Y22:
-Aditya V
-### Y23:
+### Y22: Aditya V
+### Y23: Shlok Jain, Om Gupta
 
 ### Y24:
 
