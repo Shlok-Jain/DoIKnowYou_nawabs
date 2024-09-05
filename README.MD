@@ -3,8 +3,7 @@ This is our official submission for the mid-prep problem statement "[Do I know Y
 # Team details
 ### Y22: Aditya V
 ### Y23: Shlok Jain, Om Gupta
-
-### Y24:
+### Y24: Ayush Shukla, Naivedya Jain, Paveet Singh
 
 # Dataset details
 - `WikiFALSE.txt`: This dataset contains which contains false information about RAW agents. It was used in our final implementation to finetune the model to forget the data.
