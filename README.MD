@@ -31,3 +31,6 @@ The file `HellaSwag.ipynb` is in ipynb format, you will have to run all the cell
 
 ### BLEU Score Evaluation
 The file `BLEU_Score.ipynb` is in ipynb format. It takes the dataset of question answer pairs on the forget set, and generate answers using both the models (original and fine tuned). It then calculates the BLEU score between two. The lesser the BLEU score the greater it has learnt to forget the data.
+
+### Hugging Face Model
+[https://huggingface.co/shlokjain0177/SuperiorLLM](https://huggingface.co/shlokjain0177/SuperiorLLM)
